@@ -1,0 +1,32 @@
+{
+    "private": true,
+    "name": "komandlinio",
+    "type": "commonjs",
+    "version": "1.0.0",
+    "description": "A tool to create easy cli commands.",
+    "packageManager": "pnpm@8.6.12",
+    "workspaces": [
+        "packages/*"
+    ],
+    "scripts": {
+        
+    },
+    "keywords": [
+        "komandlinio",
+        "commandline",
+        "cli",
+        "subcommand",
+        "bin",
+        "command generator"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/timbo-dev/komandlinio.git"
+    },
+    "author": {
+        "email": "dev@nathanrocha.com.br",
+        "url": "https://github.com/timbo-dev",
+        "name": "Nathan Rocha"
+    },
+    "license": "MIT"
+}
