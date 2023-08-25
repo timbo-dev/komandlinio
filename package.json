@@ -28,5 +28,8 @@
         "url": "https://github.com/timbo-dev",
         "name": "Nathan Rocha"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "devDependencies": {
+        "eslint": "^8.47.0"
+    }
 }
