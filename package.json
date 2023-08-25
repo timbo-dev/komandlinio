@@ -9,7 +9,7 @@
         "packages/*"
     ],
     "scripts": {
-        
+        "git:prepare": "scripts/commit/init.sh"
     },
     "keywords": [
         "komandlinio",
